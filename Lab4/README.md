@@ -1,2 +1,2 @@
-# GEOG392
+# Python
 GIS Programming
